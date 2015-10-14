@@ -1,0 +1,44 @@
+.f1{
+	font-weight: bold;
+	font-size: 100%;
+	font-family:  Rockwell,"Courier New", Courier, "Lucida Console", Monaco, monospace,
+                 Times, "Times New Roman", serif;
+    box-shadow: 2px;
+    font-style: italic;
+    color:black;
+    background-color: #151515;
+    color: white;
+}
+.bg{
+	width:800px;
+	height:500px;
+	margin-top: 50px;
+	margin-left: 300px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	border: 5px solid #0041FF;	
+	border-style: inset;
+	border-radius: 2px
+}
+form
+{
+	margin-left:20px;
+}
+.img
+{
+	background-image: url("background1.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+}
+.img1
+{
+	background-image: url("background.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+}
+.f2{
+	margin-left: 50px;
+}
+input[type=number]{
+    width: 295px;
+}
